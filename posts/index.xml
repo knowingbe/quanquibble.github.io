@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Quan Quibble</title>
+        <link>https://quanquibble.github.io/posts/</link>
+        <description>Recent content in Posts on Quan Quibble</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 07 Sep 2023 07:43:56 +0700</lastBuildDate><atom:link href="https://quanquibble.github.io/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>My First Post</title>
+        <link>https://quanquibble.github.io/posts/my-first-post/</link>
+        <pubDate>Thu, 07 Sep 2023 07:43:56 +0700</pubDate>
+        
+        <guid>https://quanquibble.github.io/posts/my-first-post/</guid>
+        <description>&lt;h3 id=&#34;hello-everyone&#34;&gt;Hello everyone&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Have a great day!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Mypost</title>
+        <link>https://quanquibble.github.io/posts/mypost/</link>
+        <pubDate>Thu, 07 Sep 2023 07:42:33 +0700</pubDate>
+        
+        <guid>https://quanquibble.github.io/posts/mypost/</guid>
+        <description>&lt;h3 id=&#34;hello-everyone&#34;&gt;Hello everyone&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Have a great day!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
